@@ -1,4 +1,6 @@
-﻿global using Microsoft.UI.Xaml;
+﻿global using AlAnvar.Database.Table;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.UI.Xaml;
 global using Nucs.JsonSettings;
 global using Nucs.JsonSettings.Fluent;
 global using Nucs.JsonSettings.Modulation;
