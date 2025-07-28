@@ -1,5 +1,5 @@
 ﻿namespace AlAnvar.Common;
-public class Constants
+public static class Constants
 {
     public const string AppName = "AlAnvar1.0";
     public static string RootPath =

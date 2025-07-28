@@ -1,7 +1,7 @@
 ﻿
 
 namespace AlAnvar.Common;
-public class AlAnvarHelper
+public static class AlAnvarHelper
 {
     public static AlAnvarConfig Settings = JsonSettings.Configure<AlAnvarConfig>()
         .WithRecovery(RecoveryAction.RenameAndLoadDefault)
