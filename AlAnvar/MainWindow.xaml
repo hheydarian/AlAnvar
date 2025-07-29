@@ -9,9 +9,7 @@
     Title="AlAnvar"
     mc:Ignorable="d">
 
-    <Window.SystemBackdrop>
-        <MicaBackdrop />
-    </Window.SystemBackdrop>
+   
 
-    <Grid />
+    
 </Window>
